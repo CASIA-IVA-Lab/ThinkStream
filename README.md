@@ -29,7 +29,7 @@ Experiments on multiple streaming video benchmarks show that ThinkStream signifi
 * **StreamingBench Real-Time**: ThinkStream attains highly competitive performance against proprietary models and vastly exceeds other open-source online MLLMs.
 * **Efficiency**: Our framework successfully bounds latency as the processed video length increases, consistently staying below the required real-time thresholds.
 
-## Acknowledgement
+## ❤️ Acknowledgement
 
 We would like to thank the following open-source projects for their valuable contributions:
 
@@ -37,8 +37,9 @@ We would like to thank the following open-source projects for their valuable con
 * [FlashAttention](https://github.com/Dao-AILab/flash-attention)
 * [FlashInfer](https://github.com/flashinfer-ai/flashinfer)
 * [FlexAttention](https://arxiv.org/abs/2412.05496)
+* [Liger Kernel](https://github.com/linkedin/Liger-Kernel/)
 
-## Citation
+## 📑 Citation
 If you find this work helpful, you can cite the following papers:
 
 ```
