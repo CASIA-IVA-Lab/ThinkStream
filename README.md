@@ -1,4 +1,4 @@
-# Thinking in Streaming Video
+# [ECCV2026] Thinking in Streaming Video
 
 This is the official repository for the paper "Thinking in Streaming Video".
 
