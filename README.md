@@ -4,6 +4,7 @@ This is the official repository for the paper "Thinking in Streaming Video".
 
 ## 📰 News
 
+- [2026/06/18] Our paper has been accepted by ECCV2026! The model checkpoint is available at [here](https://huggingface.co/CASIA-IVA-Lab/ThinkStream-3B).
 - [2026/03/25] We have released our Code and [ThinkStream dataset](https://huggingface.co/datasets/CASIA-IVA-Lab/ThinkStream).
 - [2026/03/16] We have released our paper on arXiv [Thinking in Streaming Video](https://arxiv.org/abs/2603.12938v1). We are working on refactoring the codebase and conducting the final check. Please stay tuned!
 
@@ -11,7 +12,7 @@ This is the official repository for the paper "Thinking in Streaming Video".
 - [x] Release Paper
 - [x] Release Code
 - [x] Release Dataset
-- [ ] Release Model
+- [x] Release Model
 
 ## 💡 Introduction
 Real-time understanding of continuous video streams is essential for interactive assistants and multimodal agents operating in dynamic environments. However, most existing video reasoning approaches follow a batch paradigm that defers reasoning until the full video context is observed, resulting in high latency and growing computational cost that are incompatible with streaming scenarios.
